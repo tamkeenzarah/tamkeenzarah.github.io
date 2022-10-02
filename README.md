@@ -41,3 +41,24 @@
 - reusable
 - authentic
 
+## Sages of Git
+
+There are 3 stages of Git
+	1- modified: changes has been made in the file but not committed into the database
+	2- staged: a modified file is ready to go in next commit
+	3- committed: modified data has been stored in your local database
+Working Directory >> Staging Phase: a file has been staged
+Staging Phase >> git Repo: a file has been committed
+Git Repo >> Working Directory: Check out the file
+
+Commands used for Git stages are:
+ - git add
+ - git status
+ - git commit
+ - git amend
+ - git push
+ - git pull
+ - git reset
+ - git checkout
+ - git fetch
+ - git merge
