@@ -31,3 +31,13 @@
 - web hosted
 - a space to upload Git repo
 
+## What are the benefits of Cloud Computing
+
+- unlimited storage
+- security
+- accessibility
+- more efficient
+- scalable
+- reusable
+- authentic
+
