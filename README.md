@@ -1,11 +1,11 @@
-# tamkeenzarah.github.io
+# DevOps Assignment-1 Week-1
 
-## 3 methods of git reset are
+### 3 methods of git reset are
   - soft reset:  files are kept and can be staged back automatically
   - mixed reset: files are reset and moved from git repo to local repo
   - hard reset:  completely destroy any changes in file and remove them from the local directory
   
-## Define CI, Continuous Delivery & Continuous Deployment
+### Define CI, Continuous Delivery & Continuous Deployment
 
 **Continuous Integration** is to merge the code into central repo automatically with lesser conflicts.
 
@@ -13,11 +13,11 @@
 
 **Continuous Deployment** is continuous testing of each update and then automatically deployment into production environment.
 
-## Agile vs DevOps
+### Agile vs DevOps
 
 **Agile** is a software developement method works on iterations while **Devops** is a continous, scalable and wide approach of software deployment.
 
-## Git vs GitHub
+### Git vs GitHub
 
 **Git** is:
 - a software 
@@ -31,7 +31,7 @@
 - web hosted
 - a space to upload Git repo
 
-## What are the benefits of Cloud Computing
+### What are the benefits of Cloud Computing
 
 - unlimited storage
 - security
@@ -41,7 +41,7 @@
 - reusable
 - authentic
 
-## Sages of Git
+### Sages of Git
 
 There are 3 stages of Git
 	1- modified: changes has been made in the file but not committed into the database
